@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 813b2a8576744a94c84d6a1da4832475
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tailPrefab: {fileID: 497477106161644994, guid: 5f5b04d187756a7448e9e80b1e15ca37,
+      type: 3}
+  - snakeMove: {fileID: 8300000, guid: 006c6be0cc14f154c878f1f66b8f1fa2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
